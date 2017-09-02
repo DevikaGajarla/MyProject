@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ramya",
+    "hobby" : "Cooking",
+    "FavDish": "Everything",
+    "FavColor" : ["Blue","Black"]
+  },
+  {
+    "name": "Pallavi",
+    "hobby" : "Hanging Out with friends",
+    "FavDish": "Momos",
+    "FavColor" : ["Blue","White","Red"]
+  },
+  {
+    "name": "Sindhu",
+   "hobby" : "Crafts",
+    "FavDish": ["Fench Fries","Ice Cream"],
+    "FavColor" : ["Blue","White","Black"]
+    }
+]
